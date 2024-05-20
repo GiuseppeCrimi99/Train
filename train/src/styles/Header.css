@@ -1,0 +1,32 @@
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    width: 40%;
+    height: 100%;
+  }
+  
+  .nav-menu {
+    display: flex;
+    gap: 4em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-menu li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .nav-menu li a {
+    color: white;
+    text-decoration: none;
+  }
+  
