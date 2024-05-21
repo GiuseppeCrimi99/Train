@@ -11,7 +11,6 @@ const App: React.FC = () => {
     <div className="app">
       <Header />
       <div className="container">
-        <Sidebar />
         <MainContent />
       </div>
       <Footer />
